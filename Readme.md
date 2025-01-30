@@ -111,13 +111,13 @@ First, run the development server:
 <a name="run"></a>
 
 ```bash
-npm run start
+npm run dev
 # or
-yarn start
+yarn dev
 # or
-pnpm start
+pnpm dev
 # or
-bun start
+bun dev
 ```
 
 Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
