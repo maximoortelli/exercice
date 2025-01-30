@@ -3,7 +3,7 @@
    <h1>📲📩 Exercise FieldData 📩📲</h1>
 </div>
   <div align="center">
-    <img src="./assets/Logo.svg" />
+    <img src="assets/Logo.svg" width="200" />
   </div>
 
 # 📗 Table of Contents
