@@ -24,7 +24,6 @@
   - [🤝 Contributing](#-contributing)
   - [⭐️ Show your support](#️-show-your-support)
   - [🙏 Acknowledgments](#-acknowledgments)
-  - [📝 License](#-license)
 
 # 📲📩 Exercise
 <a name="exercise"></a>
@@ -188,12 +187,5 @@ If you like this project please give it a star 😁🌟✨
 <a name="acknowledgements"></a>
 
 We thank to [Field Data](https://www.fielddata.ag/) for allowing me to work on this great project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# 📝 License
-<a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
