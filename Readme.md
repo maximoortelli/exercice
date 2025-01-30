@@ -34,10 +34,10 @@
 
   Esta aplicación permite gestionar publicaciones de usuarios de manera intuitiva y eficiente. Las funcionalidades principales incluyen:
 
-🔹 Cree nuevos posts con información de usuario.
-🔹 Visualice los posts existentes en una interfaz limpia y responsiva.
-🔹 Edite publicaciones en tiempo real con un sistema de edición en línea.
-🔹 Elimine posts de forma sencilla con un solo clic.
+  - Cree nuevos posts con información de usuario.
+  - Visualice los posts existentes en una interfaz limpia y responsiva.
+  - Edite publicaciones en tiempo real con un sistema de edición en línea.
+  - Elimine posts de forma sencilla con un solo clic.
 
 # 🛠 Built With 
 
