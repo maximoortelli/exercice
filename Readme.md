@@ -12,7 +12,6 @@
 - [📲📩 Exercise ](#-exercise)
   - [🛠 Built With](#-built-with)
   - [Tech Stack](#tech-stack)
-  - [Serverless & Database](#serverless)
   - [Versions or branches](#versions)
   - [Install](#install)
   - [💻 Getting Started](#-getting-started)
