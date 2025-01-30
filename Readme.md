@@ -27,7 +27,8 @@
   - [🙏 Acknowledgments](#-acknowledgments)
   - [📝 License](#-license)
 
-# 📲📩 Exercise <a name="exercise"></a>
+# 📲📩 Exercise
+<a name="exercise"></a>
 
  ¡Bienvenido a este proyecto de CRUD de posts de usuarios! 🎉
   Este desarrollo fue realizado como parte de un ejercicio técnico para FieldData, con el objetivo de demostrar habilidades en la creación de interfaces dinámicas, gestión de estado y manipulación del DOM en React.
