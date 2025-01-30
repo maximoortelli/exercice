@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=react"/>
         <a href="https://reactjs.org">React</a>
      </li>
+         <li>
+        <img src="https://skillicons.dev/icons?i=vite"/>
+        <a href="https://es.vite.dev/">Vite</a>
+     </li>
      <li>
         <img src="https://skillicons.dev/icons?i=js"/>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
@@ -63,8 +67,12 @@
        <a href="https://nodejs.org/en">NodeJS</a>
      </li>
      <li>
-       <img src="https://skillicons.dev/icons?i=nodejs"/>
-       <a href="https://nodejs.org/en">Zustand</a>
+       <img src="https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=Zustand&logoColor=white"/>
+       <a href="https://zustand-demo.pmnd.rs/">Zustand</a>
+     </li>
+        <li>
+       <img src="https://skillicons.dev/icons?i=tailwind"/>
+       <a href="https://tailwindcss.com/">TailwindCSS</a>
      </li>
      <li>
         <img src="https://skillicons.dev/icons?i=css"/>
