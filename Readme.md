@@ -142,15 +142,15 @@ You can start editing the page by modifying `App.js`. The page auto-updates as y
 # 🔭 Future Features 
 <a name="future-features"></a>
 
-- [x] Configure e instale correctamente las tecnologías del proyecto.
-- [x] Cree la página de inicio de la aplicación.
-- [x] Cree la card de cada uno de los usuarios.
-- [x] Gestione el estado de la aplicación de manera eficiente.
-- [X] Reutilice los componentes para optimizar la App.
-- [X] Cree nuevos posts con información de usuario.
-- [X] Visualice los posts existentes en una interfaz limpia y responsiva.
-- [X] Edite las publicaciones en tiempo real con un sistema de edición en línea.
-- [x] Funcionalidad incorporada que permite eliminar posts de forma sencilla con un solo clic.
+- [x] Configuré e instalé correctamente las tecnologías del proyecto.
+- [x] Creé la página de inicio de la aplicación.
+- [x] Implementé la tarjeta de cada uno de los usuarios.
+- [x] Gestioné el estado de la aplicación de manera eficiente.
+- [X] Reutilicé los componentes para optimizar la aplicación.
+- [X] Desarrolé nuevos posts con información de usuario.
+- [X] Visualicé los posts existentes en una interfaz limpia y responsiva.
+- [X] Edité las publicaciones en tiempo real con un sistema de edición en línea.
+- [x] Implementé la funcionalidad para eliminar posts de forma sencilla con un solo clic.
 - [x] Diseño totalmente responsivo para todos los dispositivos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
