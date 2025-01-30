@@ -29,15 +29,15 @@
 
 # 📲📩 Exercise <a name="exercise"></a>
 
-> ¡Bienvenido a este proyecto de CRUD de posts de usuarios! 🎉
-   Este desarrollo fue realizado como parte de un ejercicio técnico para FieldData, con el objetivo de demostrar habilidades en la creación de interfaces dinámicas, gestión de estado y manipulación del DOM en React.
+ ¡Bienvenido a este proyecto de CRUD de posts de usuarios! 🎉
+  Este desarrollo fue realizado como parte de un ejercicio técnico para FieldData, con el objetivo de demostrar habilidades en la creación de interfaces dinámicas, gestión de estado y manipulación del DOM en React.
 
-   Esta aplicación permite gestionar publicaciones de usuarios de manera intuitiva y eficiente. Las funcionalidades principales incluyen:
+  Esta aplicación permite gestionar publicaciones de usuarios de manera intuitiva y eficiente. Las funcionalidades principales incluyen:
 
-🔹 Crear nuevos posts con información de usuario.
-🔹 Visualizar los posts existentes en una interfaz limpia y responsiva.
-🔹 Editar publicaciones en tiempo real con un sistema de edición en línea.
-🔹 Eliminar posts de forma sencilla con un solo clic.
+🔹 Cree nuevos posts con información de usuario.
+🔹 Visualice los posts existentes en una interfaz limpia y responsiva.
+🔹 Edite publicaciones en tiempo real con un sistema de edición en línea.
+🔹 Elimine posts de forma sencilla con un solo clic.
 
 # 🛠 Built With 
 
